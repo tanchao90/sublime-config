@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Markdown Preview",
+		"Package Control",
+		"Python Flake8 Lint",
+		"SublimeCodeIntel",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
+	]
+}
