@@ -4,8 +4,6 @@
 
 关于Sublime的用法可参考我的博客：[]()
 
-[ddd](#你好)
-
 我的信息：
 OS：Windows 10
 Sublime Text：Build 3103
@@ -20,8 +18,7 @@ clone 到本地之后，打开Sublime时Sublime会自动根据配置文件下载
 我的配置文件目录是： `C:\Users\用户名\AppData\Roaming\Sublime Text 3\Packages\User\`
 
 不知道配置目录的可按下面步骤找：
+
 1. 点击 `Preferences/Browse Packages` 弹出对话框；
 2. 进入其中的User目录即可；
-3. 
-## 你好
-111
+
