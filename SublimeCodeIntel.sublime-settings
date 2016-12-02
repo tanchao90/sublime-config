@@ -1,0 +1,20 @@
+/*
+   SublimeCodeIntel default settings
+   All settings can be overridden in *.sublime-project file
+*/
+{
+    /*
+       Defines a configuration for each language.
+    */
+    "codeintel_language_settings": {
+        "Python": { // For Windows Python 2.7
+            "python": "C:/Python27/python.exe",
+            "pythonExtraPaths":
+                [
+                    "C:/Python27/Lib",
+                    "C:/Python27/Lib/site-packages"
+                ],
+        },
+
+    }
+}

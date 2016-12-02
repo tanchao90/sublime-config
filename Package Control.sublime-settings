@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Github Tools",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Material Theme - White Panels",
+		"Package Control",
+		"Python Flake8 Lint",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"Tomorrow Color Schemes"
+	]
+}
