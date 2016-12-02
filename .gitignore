@@ -1,10 +1,22 @@
 
+# ignore plugins
+markupsafe/
+Material Theme - Appbar/
+Material Theme - White Panels/
+mdpopups/
+pygments/
+Python Flake8 Lint/
+python-jinja2/
+python-markdown/
+pyyaml/
+SublimeCodeIntel/
+
 # ignore cache
-Package Control.cache/
+User/Package Control.cache/
 
 # ignore ca file
-Package Control.last-run
-Package Control.merged-ca-bundle
-Package Control.system-ca-bundle
-Package Control.user-ca-bundle
-oscrypto-ca-bundle.crt
+User/Package Control.last-run
+User/Package Control.merged-ca-bundle
+User/Package Control.system-ca-bundle
+User/Package Control.user-ca-bundle
+User/oscrypto-ca-bundle.crt
