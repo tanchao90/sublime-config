@@ -34,8 +34,9 @@ clone 到本地之后，打开Sublime时Sublime会自动根据配置文件下载
 我的配置文件全路径是： `C:\Users\用户名\AppData\Roaming\Sublime Text 3\Packages\`
 
 不知道配置目录的可按下面步骤找：
-- 点击 `Preferences/Browse Packages`；
-- 弹出的目录即是 `Sublime Text 3\Packages\` 目录；
+
+1. 点击 `Preferences/Browse Packages`；
+2. 弹出的目录即是 `Sublime Text 3\Packages\` 目录；
 
 
 ### Reference
