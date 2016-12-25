@@ -2,7 +2,7 @@
 
 本仓库记录了我 **Sublime Text 3** 的个人配置，方便备份和还原Sublime。
 
-关于Sublime的用法可参考我的博客：[Sublime Text 使用小结](http://tanchao90.com/2016/04/18/sublime/)
+关于Sublime的用法可参考我的博客：[Sublime Text 使用小结](http://tanchao90.com/sublime/)
 
 我的信息：
 - OS：Windows 10
