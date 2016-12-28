@@ -31,7 +31,10 @@ clone 到本地之后，打开Sublime时Sublime会自动根据配置文件下载
 
 **注**：上述操作可能受限于网络，最好翻墙。
 
-我的配置文件全路径是： `C:\Users\用户名\AppData\Roaming\Sublime Text 3\Packages\`
+我的配置文件全路径是： 
+
+- Windows: `C:\Users\用户名\AppData\Roaming\Sublime Text 3\Packages\`
+- Mac: `/Users/username/Library/Application Support/Sublime Text 3/Packages/`
 
 不知道配置目录的可按下面步骤找：
 
@@ -41,3 +44,5 @@ clone 到本地之后，打开Sublime时Sublime会自动根据配置文件下载
 
 ### Reference
 - [How to get Git to clone into current directory](http://stackoverflow.com/questions/9864728/how-to-get-git-to-clone-into-current-directory/33695754#33695754)
+
+
